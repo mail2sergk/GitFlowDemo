@@ -1,2 +1,2 @@
-Hello! I'm new commit
+Hello! I'm a new commit
 I'm made a minute ago.
